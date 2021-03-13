@@ -25,6 +25,7 @@ public class TouchObject {
         System.out.println(obj.toString());
         // >> TODO native方法
         System.out.println(obj.getClass());
+        // hashcode一样不一定是用一个对象
         System.out.println(obj.hashCode());
 
     }

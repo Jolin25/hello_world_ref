@@ -12,7 +12,7 @@ public class NewAndThrowIt {
         throw new Exception("");
     }
 
-    public static void causeRuntimeException() throws RuntimeException {
+    public static void causeRuntimeException() {
         // >> TODO 可以创建一个unchecked exception，然后用throw关键字扔出去
         // >> TODO 这时候，方法可以有，也可以没有throws语句
         throw new RuntimeException("");

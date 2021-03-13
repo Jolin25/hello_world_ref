@@ -6,6 +6,7 @@ public class MerchandiseV2 {
 
     public String name;
     public String id;
+    // 库存量
     public int count;
     public double soldPrice;
     public double purchasePrice;

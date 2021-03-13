@@ -8,11 +8,16 @@ public class ImplIntfWithEx implements IntfWithEx {
     }
 
     @Override
-    public void safe() {
+    public void safe() throws RuntimeException {
         // >> TODO 接口中没有声明抛出异常，实现类中可以抛RuntimeException，也可以不抛。
         // >> TODO 如果抛 checked exception，就会出错
         // >> TODO 可以选择catch住 checked exception，然后将它封在RuntimeException里
-        // throw new Exception();
+        try {
+            throw new Exception();
+        } catch (Exception e) {
+            e.printStackTrace();
+            throw new RuntimeException(e);
+        }
         // throw new RuntimeException();
     }
 }
