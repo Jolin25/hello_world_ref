@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/第一章 Java编程基础/002-环境准备/002-环境准备.iml" filepath="$PROJECT_DIR$/第一章 Java编程基础/002-环境准备/002-环境准备.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第一章 Java编程基础/003-详解HelloWorld程序/003-详解HelloWorld程序.iml" filepath="$PROJECT_DIR$/第一章 Java编程基础/003-详解HelloWorld程序/003-详解HelloWorld程序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第一章 Java编程基础/004-集成开发环境安装和使用/004-集成开发环境安装和使用.iml" filepath="$PROJECT_DIR$/第一章 Java编程基础/004-集成开发环境安装和使用/004-集成开发环境安装和使用.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第一章 Java编程基础/005-从加减乘除到变量/005-从加减乘除到变量.iml" filepath="$PROJECT_DIR$/第一章 Java编程基础/005-从加减乘除到变量/005-从加减乘除到变量.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第一章 Java编程基础/006-再探加减乘除的程序/006-再探加减乘除的程序.iml" filepath="$PROJECT_DIR$/第一章 Java编程基础/006-再探加减乘除的程序/006-再探加减乘除的程序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第一章 Java编程基础/007-Java中的基本数据类型/007-Java中的基本数据类型.iml" filepath="$PROJECT_DIR$/第一章 Java编程基础/007-Java中的基本数据类型/007-Java中的基本数据类型.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第一章 Java编程基础/008-Java中的运算符/008-Java中的运算符.iml" filepath="$PROJECT_DIR$/第一章 Java编程基础/008-Java中的运算符/008-Java中的运算符.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第一章 Java编程基础/009-Java中的位运算符/009-Java中的位运算符.iml" filepath="$PROJECT_DIR$/第一章 Java编程基础/009-Java中的位运算符/009-Java中的位运算符.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/01. Collection 类族简介/01. Collection 类族简介.iml" filepath="$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/01. Collection 类族简介/01. Collection 类族简介.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第三章 Java中的异常处理/01. 初识异常：try catch/01. 初识异常：try catch.iml" filepath="$PROJECT_DIR$/第三章 Java中的异常处理/01. 初识异常：try catch/01. 初识异常：try catch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第五章 Java 中的线程/01. 初识线程/01. 初识线程.iml" filepath="$PROJECT_DIR$/第五章 Java 中的线程/01. 初识线程/01. 初识线程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/01. 类 (Class)/01. 类 (Class).iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/01. 类 (Class)/01. 类 (Class).iml" />
+      <module fileurl="file://$PROJECT_DIR$/第一章 Java编程基础/010-基本数据类型的更多语法点/010-基本数据类型的更多语法点.iml" filepath="$PROJECT_DIR$/第一章 Java编程基础/010-基本数据类型的更多语法点/010-基本数据类型的更多语法点.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第一章 Java编程基础/011-字符集编码和字符串/011-字符集编码和字符串.iml" filepath="$PROJECT_DIR$/第一章 Java编程基础/011-字符集编码和字符串/011-字符集编码和字符串.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第一章 Java编程基础/012-操作符和数据类型总结/012-操作符和数据类型总结.iml" filepath="$PROJECT_DIR$/第一章 Java编程基础/012-操作符和数据类型总结/012-操作符和数据类型总结.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第一章 Java编程基础/013-程序执行流程之if-else语句/013-程序执行流程之if-else语句.iml" filepath="$PROJECT_DIR$/第一章 Java编程基础/013-程序执行流程之if-else语句/013-程序执行流程之if-else语句.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第一章 Java编程基础/014-程序循环之for语句/014-程序循环之for语句.iml" filepath="$PROJECT_DIR$/第一章 Java编程基础/014-程序循环之for语句/014-程序循环之for语句.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第一章 Java编程基础/015-代码块和变量的作用域/015-代码块和变量的作用域.iml" filepath="$PROJECT_DIR$/第一章 Java编程基础/015-代码块和变量的作用域/015-代码块和变量的作用域.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第一章 Java编程基础/016-程序循环之while语句/016-程序循环之while语句.iml" filepath="$PROJECT_DIR$/第一章 Java编程基础/016-程序循环之while语句/016-程序循环之while语句.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第一章 Java编程基础/017-程序执行流程之switch语句/017-程序执行流程之switch语句.iml" filepath="$PROJECT_DIR$/第一章 Java编程基础/017-程序执行流程之switch语句/017-程序执行流程之switch语句.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第一章 Java编程基础/018-循环和判断的总结/018-循环和判断的总结.iml" filepath="$PROJECT_DIR$/第一章 Java编程基础/018-循环和判断的总结/018-循环和判断的总结.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第一章 Java编程基础/019-用数组保存成绩/019-用数组保存成绩.iml" filepath="$PROJECT_DIR$/第一章 Java编程基础/019-用数组保存成绩/019-用数组保存成绩.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/02. Collection 中的 List/02. Collection 中的 List.iml" filepath="$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/02. Collection 中的 List/02. Collection 中的 List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第三章 Java中的异常处理/02. Java 中异常的分类/02. Java 中异常的分类.iml" filepath="$PROJECT_DIR$/第三章 Java中的异常处理/02. Java 中异常的分类/02. Java 中异常的分类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第六章 Java 编程实战/02. Java 平台简介/02. Java 平台简介.iml" filepath="$PROJECT_DIR$/第六章 Java 编程实战/02. Java 平台简介/02. Java 平台简介.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第五章 Java 中的线程/02. 创建自己的线程/02. 创建自己的线程.iml" filepath="$PROJECT_DIR$/第五章 Java 中的线程/02. 创建自己的线程/02. 创建自己的线程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/02. 初探类和对象/02. 初探类和对象.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/02. 初探类和对象/02. 初探类和对象.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第一章 Java编程基础/020-认识变量和数组/020-认识变量和数组.iml" filepath="$PROJECT_DIR$/第一章 Java编程基础/020-认识变量和数组/020-认识变量和数组.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第一章 Java编程基础/021-多维数组/021-多维数组.iml" filepath="$PROJECT_DIR$/第一章 Java编程基础/021-多维数组/021-多维数组.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第一章 Java编程基础/022-用数组灵活处理成绩/022-用数组灵活处理成绩.iml" filepath="$PROJECT_DIR$/第一章 Java编程基础/022-用数组灵活处理成绩/022-用数组灵活处理成绩.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/03. Collection 中的 Set/03. Collection 中的 Set.iml" filepath="$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/03. Collection 中的 Set/03. Collection 中的 Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第六章 Java 编程实战/03. Maven 概念简介/03. Maven 概念简介.iml" filepath="$PROJECT_DIR$/第六章 Java 编程实战/03. Maven 概念简介/03. Maven 概念简介.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第五章 Java 中的线程/03. 再探线程/03. 再探线程.iml" filepath="$PROJECT_DIR$/第五章 Java 中的线程/03. 再探线程/03. 再探线程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第三章 Java中的异常处理/03. 抛出异常的语法/03. 抛出异常的语法.iml" filepath="$PROJECT_DIR$/第三章 Java中的异常处理/03. 抛出异常的语法/03. 抛出异常的语法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/03. 认识引用类型/03. 认识引用类型.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/03. 认识引用类型/03. 认识引用类型.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第三章 Java中的异常处理/04. Java 异常的传递/04. Java 异常的传递.iml" filepath="$PROJECT_DIR$/第三章 Java中的异常处理/04. Java 异常的传递/04. Java 异常的传递.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第五章 Java 中的线程/04. 多线程：混乱开始了/04. 多线程：混乱开始了.iml" filepath="$PROJECT_DIR$/第五章 Java 中的线程/04. 多线程：混乱开始了/04. 多线程：混乱开始了.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/04. 泛型简析/04. 泛型简析.iml" filepath="$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/04. 泛型简析/04. 泛型简析.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/04. 类、对象和引用的关系/04. 类、对象和引用的关系.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/04. 类、对象和引用的关系/04. 类、对象和引用的关系.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/05. 再探泛型/05. 再探泛型.iml" filepath="$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/05. 再探泛型/05. 再探泛型.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第六章 Java 编程实战/05. 创建一个简单的 Maven 项目/05. 创建一个简单的 Maven 项目.iml" filepath="$PROJECT_DIR$/第六章 Java 编程实战/05. 创建一个简单的 Maven 项目/05. 创建一个简单的 Maven 项目.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第五章 Java 中的线程/05. 同步控制之 synchronized/05. 同步控制之 synchronized.iml" filepath="$PROJECT_DIR$/第五章 Java 中的线程/05. 同步控制之 synchronized/05. 同步控制之 synchronized.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第三章 Java中的异常处理/05. 自定义异常/05. 自定义异常.iml" filepath="$PROJECT_DIR$/第三章 Java中的异常处理/05. 自定义异常/05. 自定义异常.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/05. 认识数组类型/05. 认识数组类型.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/05. 认识数组类型/05. 认识数组类型.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/06. Iterator 接口/06. Iterator 接口.iml" filepath="$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/06. Iterator 接口/06. Iterator 接口.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第六章 Java 编程实战/06. 一个从 pptx 文件中抽取文字的小工具/06. 一个从 pptx 文件中抽取文字的小工具.iml" filepath="$PROJECT_DIR$/第六章 Java 编程实战/06. 一个从 pptx 文件中抽取文字的小工具/06. 一个从 pptx 文件中抽取文字的小工具.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第五章 Java 中的线程/06. 同步控制之 wait notify/06. 同步控制之 wait notify.iml" filepath="$PROJECT_DIR$/第五章 Java 中的线程/06. 同步控制之 wait notify/06. 同步控制之 wait notify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第三章 Java中的异常处理/06. 异常传递不是凌波微步/06. 异常传递不是凌波微步.iml" filepath="$PROJECT_DIR$/第三章 Java中的异常处理/06. 异常传递不是凌波微步/06. 异常传递不是凌波微步.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/06. 引用的缺省值：null/06. 引用的缺省值：null.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/06. 引用的缺省值：null/06. 引用的缺省值：null.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/07. Map：key 和 value 的映射/07. Map：key 和 value 的映射.iml" filepath="$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/07. Map：key 和 value 的映射/07. Map：key 和 value 的映射.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第三章 Java中的异常处理/07. try catch finally 语句/07. try catch finally 语句.iml" filepath="$PROJECT_DIR$/第三章 Java中的异常处理/07. try catch finally 语句/07. try catch finally 语句.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/07. 像自定义类型一样使用类/07. 像自定义类型一样使用类.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/07. 像自定义类型一样使用类/07. 像自定义类型一样使用类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第五章 Java 中的线程/07. 多线程经典模型：生产者消费者/07. 多线程经典模型：生产者消费者.iml" filepath="$PROJECT_DIR$/第五章 Java 中的线程/07. 多线程经典模型：生产者消费者/07. 多线程经典模型：生产者消费者.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/08. Java 中的包和访问修饰符/08. Java 中的包和访问修饰符.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/08. Java 中的包和访问修饰符/08. Java 中的包和访问修饰符.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/08. 注解：元数据的搬运工/08. 注解：元数据的搬运工.iml" filepath="$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/08. 注解：元数据的搬运工/08. 注解：元数据的搬运工.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第五章 Java 中的线程/08. 线程同步之 join/08. 线程同步之 join.iml" filepath="$PROJECT_DIR$/第五章 Java 中的线程/08. 线程同步之 join/08. 线程同步之 join.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第三章 Java中的异常处理/08. 自动回收资源的 try 语句/08. 自动回收资源的 try 语句.iml" filepath="$PROJECT_DIR$/第三章 Java中的异常处理/08. 自动回收资源的 try 语句/08. 自动回收资源的 try 语句.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第三章 Java中的异常处理/09. Java 中的常见异常/09. Java 中的常见异常.iml" filepath="$PROJECT_DIR$/第三章 Java中的异常处理/09. Java 中的常见异常/09. Java 中的常见异常.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/09. lambda V.S. 匿名类/09. lambda V.S. 匿名类.iml" filepath="$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/09. lambda V.S. 匿名类/09. lambda V.S. 匿名类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/09. 打造一个小超市/09. 打造一个小超市.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/09. 打造一个小超市/09. 打造一个小超市.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第五章 Java 中的线程/09. 死锁/09. 死锁.iml" filepath="$PROJECT_DIR$/第五章 Java 中的线程/09. 死锁/09. 死锁.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/10. Intellij 调试程序初探/10. Intellij 调试程序初探.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/10. Intellij 调试程序初探/10. Intellij 调试程序初探.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第五章 Java 中的线程/10. ThreadLocal：多线程专属的变量/10. ThreadLocal：多线程专属的变量.iml" filepath="$PROJECT_DIR$/第五章 Java 中的线程/10. ThreadLocal：多线程专属的变量/10. ThreadLocal：多线程专属的变量.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/10. 基本类型的自动装箱和拆箱/10. 基本类型的自动装箱和拆箱.iml" filepath="$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/10. 基本类型的自动装箱和拆箱/10. 基本类型的自动装箱和拆箱.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/11. Java 中的 File 类/11. Java 中的 File 类.iml" filepath="$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/11. Java 中的 File 类/11. Java 中的 File 类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第五章 Java 中的线程/11. 定时任务/11. 定时任务.iml" filepath="$PROJECT_DIR$/第五章 Java 中的线程/11. 定时任务/11. 定时任务.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/11. 方法：让 Merchandise 对象有行为/11. 方法：让 Merchandise 对象有行为.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/11. 方法：让 Merchandise 对象有行为/11. 方法：让 Merchandise 对象有行为.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/12. Java IO 简介/12. Java IO 简介.iml" filepath="$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/12. Java IO 简介/12. Java IO 简介.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第五章 Java 中的线程/12. volatile 关键字/12. volatile 关键字.iml" filepath="$PROJECT_DIR$/第五章 Java 中的线程/12. volatile 关键字/12. volatile 关键字.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/12. 返回值：让 Merchandise 计算毛利润/12. 返回值：让 Merchandise 计算毛利润.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/12. 返回值：让 Merchandise 计算毛利润/12. 返回值：让 Merchandise 计算毛利润.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/13. 写文件内容小程序/13. 写文件内容小程序.iml" filepath="$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/13. 写文件内容小程序/13. 写文件内容小程序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/13. 参数：让 Merchandise 计算多件商品的总价/13. 参数：让 Merchandise 计算多件商品的总价.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/13. 参数：让 Merchandise 计算多件商品的总价/13. 参数：让 Merchandise 计算多件商品的总价.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第五章 Java 中的线程/13. 同步大杀器：concurrent 包/13. 同步大杀器：concurrent 包.iml" filepath="$PROJECT_DIR$/第五章 Java 中的线程/13. 同步大杀器：concurrent 包/13. 同步大杀器：concurrent 包.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第五章 Java 中的线程/14. concurrent 包中的 Atomic 类族/14. concurrent 包中的 Atomic 类族.iml" filepath="$PROJECT_DIR$/第五章 Java 中的线程/14. concurrent 包中的 Atomic 类族/14. concurrent 包中的 Atomic 类族.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/14. 参数和返回值是怎么传递的/14. 参数和返回值是怎么传递的.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/14. 参数和返回值是怎么传递的/14. 参数和返回值是怎么传递的.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第六章 Java 编程实战/14. 游戏小程序代码分析/14. 游戏小程序代码分析.iml" filepath="$PROJECT_DIR$/第六章 Java 编程实战/14. 游戏小程序代码分析/14. 游戏小程序代码分析.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/14. 读文件内容小程序/14. 读文件内容小程序.iml" filepath="$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/14. 读文件内容小程序/14. 读文件内容小程序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第五章 Java 中的线程/15. concurrent 包中的锁/15. concurrent 包中的锁.iml" filepath="$PROJECT_DIR$/第五章 Java 中的线程/15. concurrent 包中的锁/15. concurrent 包中的锁.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/15. 分清参数、局部变量和实例变量地盘/15. 分清参数、局部变量和实例变量地盘.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/15. 分清参数、局部变量和实例变量地盘/15. 分清参数、局部变量和实例变量地盘.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/15. 网络通讯名词简介/15. 网络通讯名词简介.iml" filepath="$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/15. 网络通讯名词简介/15. 网络通讯名词简介.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第五章 Java 中的线程/16. concurrent 包中的数据结构/16. concurrent 包中的数据结构.iml" filepath="$PROJECT_DIR$/第五章 Java 中的线程/16. concurrent 包中的数据结构/16. concurrent 包中的数据结构.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/16. 简单的网络通讯小程序/16. 简单的网络通讯小程序.iml" filepath="$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/16. 简单的网络通讯小程序/16. 简单的网络通讯小程序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/16. 隐藏的 this 自引用/16. 隐藏的 this 自引用.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/16. 隐藏的 this 自引用/16. 隐藏的 this 自引用.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第五章 Java 中的线程/17. concurrent 包中的线程池/17. concurrent 包中的线程池.iml" filepath="$PROJECT_DIR$/第五章 Java 中的线程/17. concurrent 包中的线程池/17. concurrent 包中的线程池.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/17. 简单的抓取网页内容的程序/17. 简单的抓取网页内容的程序.iml" filepath="$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/17. 简单的抓取网页内容的程序/17. 简单的抓取网页内容的程序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/18. 理解方法的调用：代码的一种特殊跳转/18. 理解方法的调用：代码的一种特殊跳转.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/18. 理解方法的调用：代码的一种特殊跳转/18. 理解方法的调用：代码的一种特殊跳转.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第五章 Java 中的线程/18. 聊天室开张喽！/18. 聊天室开张喽！.iml" filepath="$PROJECT_DIR$/第五章 Java 中的线程/18. 聊天室开张喽！/18. 聊天室开张喽！.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/19. 给类和方法加 Java 注释/19. 给类和方法加 Java 注释.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/19. 给类和方法加 Java 注释/19. 给类和方法加 Java 注释.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/20. 一个成熟的类的对象会自己做事情/20. 一个成熟的类的对象会自己做事情.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/20. 一个成熟的类的对象会自己做事情/20. 一个成熟的类的对象会自己做事情.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/21. 方法的签名和重载/21. 方法的签名和重载.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/21. 方法的签名和重载/21. 方法的签名和重载.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/22. 重载的参数匹配规则/22. 重载的参数匹配规则.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/22. 重载的参数匹配规则/22. 重载的参数匹配规则.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/23. 构造方法：构造实例的方法/23. 构造方法：构造实例的方法.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/23. 构造方法：构造实例的方法/23. 构造方法：构造实例的方法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/24. 构造方法的重载和互相调用/24. 构造方法的重载和互相调用.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/24. 构造方法的重载和互相调用/24. 构造方法的重载和互相调用.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/25. 静态变量/25. 静态变量.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/25. 静态变量/25. 静态变量.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/26. 静态方法/26. 静态方法.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/26. 静态方法/26. 静态方法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/27. 静态方法的重载/27. 静态方法的重载.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/27. 静态方法的重载/27. 静态方法的重载.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/28. static 代码块和 static 变量初始化/28. static 代码块和 static 变量初始化.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/28. static 代码块和 static 变量初始化/28. static 代码块和 static 变量初始化.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/29. 方法和属性的可见性修饰符/29. 方法和属性的可见性修饰符.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/29. 方法和属性的可见性修饰符/29. 方法和属性的可见性修饰符.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/30. 重新认识老朋友：Math 和 Scanner/30. 重新认识老朋友：Math 和 Scanner.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/30. 重新认识老朋友：Math 和 Scanner/30. 重新认识老朋友：Math 和 Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/31. 最熟悉的陌生人：String/31. 最熟悉的陌生人：String.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/31. 最熟悉的陌生人：String/31. 最熟悉的陌生人：String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/32. 重新认识老朋友：main方法和System类/32. 重新认识老朋友：main方法和System类.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/32. 重新认识老朋友：main方法和System类/32. 重新认识老朋友：main方法和System类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/33. String 类的好兄弟/33. String 类的好兄弟.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/33. String 类的好兄弟/33. String 类的好兄弟.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/34. 继承：方便让商品增加新的类别/34. 继承：方便让商品增加新的类别.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/34. 继承：方便让商品增加新的类别/34. 继承：方便让商品增加新的类别.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/35. 子类对象里藏着一个父类对象/35. 子类对象里藏着一个父类对象.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/35. 子类对象里藏着一个父类对象/35. 子类对象里藏着一个父类对象.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/36. 覆盖：子类想要一点不一样/36. 覆盖：子类想要一点不一样.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/36. 覆盖：子类想要一点不一样/36. 覆盖：子类想要一点不一样.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/37. super：和父类对象沟通的桥梁/37. super：和父类对象沟通的桥梁.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/37. super：和父类对象沟通的桥梁/37. super：和父类对象沟通的桥梁.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/38. super：调用父类的构造方法/38. super：调用父类的构造方法.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/38. super：调用父类的构造方法/38. super：调用父类的构造方法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/39. 父类和子类的引用赋值关系/39. 父类和子类的引用赋值关系.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/39. 父类和子类的引用赋值关系/39. 父类和子类的引用赋值关系.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/40. 多态：到底调用的哪个方法？/40. 多态：到底调用的哪个方法？.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/40. 多态：到底调用的哪个方法？/40. 多态：到底调用的哪个方法？.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/41. 多态里更多的语法点/41. 多态里更多的语法点.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/41. 多态里更多的语法点/41. 多态里更多的语法点.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/42. instanceof 操作符/42. instanceof 操作符.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/42. instanceof 操作符/42. instanceof 操作符.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/43. 继承专属的访问控制：protected/43. 继承专属的访问控制：protected.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/43. 继承专属的访问控制：protected/43. 继承专属的访问控制：protected.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/44. final 修饰符/44. final 修饰符.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/44. final 修饰符/44. final 修饰符.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/45. 继承里的静态方法/45. 继承里的静态方法.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/45. 继承里的静态方法/45. 继承里的静态方法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/46. 插曲：for 循环的另一种写法/46. 插曲：for 循环的另一种写法.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/46. 插曲：for 循环的另一种写法/46. 插曲：for 循环的另一种写法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/47. 万类之祖：Object 类/47. 万类之祖：Object 类.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/47. 万类之祖：Object 类/47. 万类之祖：Object 类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/48. hashCode 和 equals 方法/48. hashCode 和 equals 方法.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/48. hashCode 和 equals 方法/48. hashCode 和 equals 方法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/49. toString 方法/49. toString 方法.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/49. toString 方法/49. toString 方法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/50. 初探 Class 类/50. 初探 Class 类.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/50. 初探 Class 类/50. 初探 Class 类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/51. 初探反射/51. 初探反射.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/51. 初探反射/51. 初探反射.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/52. 面向对象三要素：封装、继承和多态/52. 面向对象三要素：封装、继承和多态.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/52. 面向对象三要素：封装、继承和多态/52. 面向对象三要素：封装、继承和多态.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/53. 枚举：定义商品的门类/53. 枚举：定义商品的门类.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/53. 枚举：定义商品的门类/53. 枚举：定义商品的门类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/54. 接口：让商品类型更丰富/54. 接口：让商品类型更丰富.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/54. 接口：让商品类型更丰富/54. 接口：让商品类型更丰富.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/55. 抽象类：接口和类的混合体/55. 抽象类：接口和类的混合体.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/55. 抽象类：接口和类的混合体/55. 抽象类：接口和类的混合体.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/56. 有方法代码的接口/56. 有方法代码的接口.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/56. 有方法代码的接口/56. 有方法代码的接口.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/57. 接口内的代码的更多内容/57. 接口内的代码的更多内容.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/57. 接口内的代码的更多内容/57. 接口内的代码的更多内容.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/58. 静态内部类/58. 静态内部类.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/58. 静态内部类/58. 静态内部类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/59. 成员内部类/59. 成员内部类.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/59. 成员内部类/59. 成员内部类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/60. 局部内部类/60. 局部内部类.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/60. 局部内部类/60. 局部内部类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/61. 匿名类/61. 匿名类.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/61. 匿名类/61. 匿名类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/62. 特殊类的总结/62. 特殊类的总结.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/62. 特殊类的总结/62. 特殊类的总结.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/63. 让我们的超市运转起来：设计篇/63. 让我们的超市运转起来：设计篇.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/63. 让我们的超市运转起来：设计篇/63. 让我们的超市运转起来：设计篇.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章 Java面向对象编程/64. 让我们的超市运转起来：代码篇/64. 让我们的超市运转起来：代码篇.iml" filepath="$PROJECT_DIR$/第二章 Java面向对象编程/64. 让我们的超市运转起来：代码篇/64. 让我们的超市运转起来：代码篇.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第六章 Java 编程实战/15. 使用 Swagger 创建一个Spring Boot 的 Web 服务/code/code.iml" filepath="$PROJECT_DIR$/第六章 Java 编程实战/15. 使用 Swagger 创建一个Spring Boot 的 Web 服务/code/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第六章 Java 编程实战/15. 使用 Swagger 创建一个Spring Boot 的 Web 服务/code-example/code-example.iml" filepath="$PROJECT_DIR$/第六章 Java 编程实战/15. 使用 Swagger 创建一个Spring Boot 的 Web 服务/code-example/code-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第六章 Java 编程实战/08. Intellij 更多功能介绍/code/src/main/main.iml" filepath="$PROJECT_DIR$/第六章 Java 编程实战/08. Intellij 更多功能介绍/code/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第六章 Java 编程实战/07. Maven 常用命令和插件/code/src/main/main1.iml" filepath="$PROJECT_DIR$/第六章 Java 编程实战/07. Maven 常用命令和插件/code/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第六章 Java 编程实战/08. Intellij 更多功能介绍/code/src/test/test.iml" filepath="$PROJECT_DIR$/第六章 Java 编程实战/08. Intellij 更多功能介绍/code/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第六章 Java 编程实战/07. Maven 常用命令和插件/code/src/test/test1.iml" filepath="$PROJECT_DIR$/第六章 Java 编程实战/07. Maven 常用命令和插件/code/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第一章 Java编程基础/附加题-双人对战五子棋/附加题-双人对战五子棋.iml" filepath="$PROJECT_DIR$/第一章 Java编程基础/附加题-双人对战五子棋/附加题-双人对战五子棋.iml" />
+    </modules>
+  </component>
+</project>

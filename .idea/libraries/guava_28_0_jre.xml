@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="guava-28.0-jre">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/第六章 Java 编程实战/03. Maven 概念简介/code/lib/guava-28.0-jre.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
