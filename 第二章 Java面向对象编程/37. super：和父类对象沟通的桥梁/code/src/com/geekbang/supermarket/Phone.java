@@ -28,10 +28,10 @@ public class Phone extends MerchandiseV2 {
         System.out.println("此手机商品属性如下");
         super.describe();
         System.out.println("手机厂商为" + brand + "；系统为" + os + "；硬件配置如下：\n" +
-            "屏幕：" + screenSize + "寸\n" +
-            "cpu主频" + cpuHZ + " GHz\n" +
-            "内存" + memoryG + "Gb\n" +
-            "存储空间" + storageG + "Gb");
+                "屏幕：" + screenSize + "寸\n" +
+                "cpu主频" + cpuHZ + " GHz\n" +
+                "内存" + memoryG + "Gb\n" +
+                "存储空间" + storageG + "Gb");
     }
 
     // >> TODO super是子类和父类交流的桥梁，但是并不是父类的引用
@@ -40,7 +40,7 @@ public class Phone extends MerchandiseV2 {
 //        return super;
 //    }
 
-    public Phone getThisPhone(){
+    public Phone getThisPhone() {
         return this;
     }
 
@@ -57,8 +57,8 @@ public class Phone extends MerchandiseV2 {
     }
 
     public Phone(
-        String name, String id, int count, double soldPrice, double purchasePrice,
-        double screenSize, double cpuHZ, int memoryG, int storageG, String brand, String os
+            String name, String id, int count, double soldPrice, double purchasePrice,
+            double screenSize, double cpuHZ, int memoryG, int storageG, String brand, String os
     ) {
         // >> TODO 可以认为，创建子类对象的时候，也就同时创建了一个隐藏的父类对象
 

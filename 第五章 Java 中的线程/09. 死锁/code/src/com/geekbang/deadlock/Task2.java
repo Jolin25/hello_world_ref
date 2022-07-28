@@ -13,13 +13,13 @@ public class Task2 implements Runnable {
     @Override
     public void run() {
         // TODO 申请资源顺序不同，可能会造成死锁
-//        differentSeq();
+        differentSeq();
 
         // TODO 申请资源顺序相同，可以避免死锁，但是会降低资源的使用效率
-        sameSeq();
+//        sameSeq();
     }
 
-    private void differentSeq(){
+    private void differentSeq() {
         synchronized (appResources.getResourcePrinter()) {
             // TODO 先申请printer资源
             System.out.println("Task2得到了Printer资源");
@@ -43,7 +43,7 @@ public class Task2 implements Runnable {
         }
     }
 
-    private void sameSeq(){
+    private void sameSeq() {
         synchronized (appResources.getResourceInput()) {
             System.out.println("Task2得到了Input资源");
             System.out.println("Task2开始工作……");

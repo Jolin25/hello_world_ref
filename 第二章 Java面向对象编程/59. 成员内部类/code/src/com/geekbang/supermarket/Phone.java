@@ -42,9 +42,9 @@ public class Phone extends MerchandiseV2 {
         @Override
         public String toString() {
             return "CPU{" +
-                "speed=" + getSpeed() +
-                ", producer='" + producer + '\'' +
-                '}';
+                    "speed=" + getSpeed() +
+                    ", producer='" + producer + '\'' +
+                    '}';
         }
 
         // >> TODO 成员内部类，里面可以有任意合法的类的组成部分，包括成员内部类，但是不可以有静态内部类
@@ -79,9 +79,9 @@ public class Phone extends MerchandiseV2 {
         @Override
         public String toString() {
             return "Memory{" +
-                "memoryG=" + memoryG +
-                ", producer='" + producer + '\'' +
-                '}';
+                    "memoryG=" + memoryG +
+                    ", producer='" + producer + '\'' +
+                    '}';
         }
 
     }
@@ -95,8 +95,8 @@ public class Phone extends MerchandiseV2 {
 
 
     public Phone(
-        String name, String id, int count, double soldPrice, double purchasePrice,
-        double screenSize, double cpuHZ, int memoryG, int storageG, String brand, String os
+            String name, String id, int count, double soldPrice, double purchasePrice,
+            double screenSize, double cpuHZ, int memoryG, int storageG, String brand, String os
     ) {
         this.screenSize = screenSize;
         // >> TODO 可以像平常的类一样使用成员内部类
@@ -119,10 +119,10 @@ public class Phone extends MerchandiseV2 {
         System.out.println("此手机商品属性如下");
         describe();
         System.out.println("手机厂商为" + brand + "；系统为" + os + "；硬件配置如下：\n" +
-            "屏幕：" + screenSize + "寸\n" +
-            "cpu信息：" + cpu + " \n" +
-            "内存信息：" + memory + "\n" +
-            "存储空间" + storageG + "Gb\n");
+                "屏幕：" + screenSize + "寸\n" +
+                "cpu信息：" + cpu + " \n" +
+                "内存信息：" + memory + "\n" +
+                "存储空间" + storageG + "Gb\n");
     }
 
     public double getScreenSize() {

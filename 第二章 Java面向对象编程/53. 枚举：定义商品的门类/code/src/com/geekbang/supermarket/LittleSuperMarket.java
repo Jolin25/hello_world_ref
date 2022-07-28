@@ -31,12 +31,12 @@ public class LittleSuperMarket {
             double purchasePrice = Math.random() * 200;
             // 创建并给商品的属性赋值
             MerchandiseV2 m = new MerchandiseV2(
-                "商品" + i,
-                "ID" + i,
-                count,
-                purchasePrice * (1 + Math.random()),
-                purchasePrice,
-                all[i%allCategory]
+                    "商品" + i,
+                    "ID" + i,
+                    count,
+                    purchasePrice * (1 + Math.random()),
+                    purchasePrice,
+                    all[i % allCategory]
             );
             // 用创建的商品，给商品数组的第i个引用赋值，all和小超市的商品数组引用指向的是同一个数组对象
             merchandises[i] = m;

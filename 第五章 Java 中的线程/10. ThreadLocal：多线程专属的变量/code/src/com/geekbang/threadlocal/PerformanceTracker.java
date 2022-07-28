@@ -16,9 +16,9 @@ public class PerformanceTracker {
         @Override
         public String toString() {
             return "Phase{" +
-                "name='" + name + '\'' +
-                ", duration=" + duration +
-                "}\n";
+                    "name='" + name + '\'' +
+                    ", duration=" + duration +
+                    "}\n";
         }
     }
 

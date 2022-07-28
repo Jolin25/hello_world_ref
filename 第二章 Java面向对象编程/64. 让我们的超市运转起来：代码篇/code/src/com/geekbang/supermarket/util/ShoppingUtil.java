@@ -29,12 +29,12 @@ public class ShoppingUtil {
             for (int i = 0; i < merchandisePerCategory; i++) {
 
                 double soldPrice = Math.random() * (category.getHigherPrice() - category.getLowerPrice())
-                    + category.getLowerPrice();
+                        + category.getLowerPrice();
 
                 double purchasePrice = soldPrice * 0.7;
 
                 all[category.ordinal() * merchandisePerCategory + i] = new SimpleMerchandise(
-                    category.name() + i, soldPrice, purchasePrice, 200, category
+                        category.name() + i, soldPrice, purchasePrice, 200, category
                 );
             }
         }

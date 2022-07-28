@@ -14,8 +14,8 @@ public class Phone extends MerchandiseV2 {
     // >> TODO 构造方法可以是protected，但是如果是private，子类就不可以覆盖了。
     //    TODO 如果父类只有一个private的构造方法，相当于这个类不能有子类
     protected Phone(
-        String name, String id, int count, double soldPrice, double purchasePrice,
-        double screenSize, double cpuHZ, int memoryG, int storageG, String brand, String os
+            String name, String id, int count, double soldPrice, double purchasePrice,
+            double screenSize, double cpuHZ, int memoryG, int storageG, String brand, String os
     ) {
         super(name, id, count, soldPrice * 1.2, purchasePrice);
         this.screenSize = screenSize;
@@ -47,10 +47,10 @@ public class Phone extends MerchandiseV2 {
         System.out.println("此手机商品属性如下");
         super.describe();
         System.out.println("手机厂商为" + brand + "；系统为" + os + "；硬件配置如下：\n" +
-            "屏幕：" + screenSize + "寸\n" +
-            "cpu主频" + cpuHZ + " GHz\n" +
-            "内存" + memoryG + "Gb\n" +
-            "存储空间" + storageG + "Gb");
+                "屏幕：" + screenSize + "寸\n" +
+                "cpu主频" + cpuHZ + " GHz\n" +
+                "内存" + memoryG + "Gb\n" +
+                "存储空间" + storageG + "Gb");
     }
 
     public boolean meetCondition() {

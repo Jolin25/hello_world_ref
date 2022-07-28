@@ -50,8 +50,8 @@ public class ChatMessage {
         if (!(o instanceof ChatMessage)) return false;
         ChatMessage that = (ChatMessage) o;
         return Objects.equals(from, that.from) &&
-            Objects.equals(to, that.to) &&
-            Objects.equals(message, that.message);
+                Objects.equals(to, that.to) &&
+                Objects.equals(message, that.message);
     }
 
     @Override

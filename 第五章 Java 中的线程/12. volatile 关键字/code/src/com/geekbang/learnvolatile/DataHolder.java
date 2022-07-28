@@ -3,7 +3,7 @@ package com.geekbang.learnvolatile;
 public class DataHolder {
 
     int a, b, c, d, f, g;
-//    long e;
+    //    long e;
     // TODO 有 volatile 修饰就会影响之前的指令重排
     volatile long e;
 

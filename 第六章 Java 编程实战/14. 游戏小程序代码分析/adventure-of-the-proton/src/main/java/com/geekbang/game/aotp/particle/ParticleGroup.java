@@ -13,7 +13,7 @@ public class ParticleGroup {
 
     public void addToGroup(Particle particle) {
         particlesInGroup.computeIfAbsent(particle.getParticleType(), k -> new ArrayList<>())
-            .add(particle);
+                .add(particle);
     }
 
     public void removeFromGroup(Particle particle) {

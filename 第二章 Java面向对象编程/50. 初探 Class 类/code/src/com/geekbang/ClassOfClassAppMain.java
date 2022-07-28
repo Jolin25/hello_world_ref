@@ -16,7 +16,7 @@ public class ClassOfClassAppMain {
                 "世纪大道1号", 500, 600, 100);
 
         MerchandiseV2 m100 = superMarket.getMerchandiseOf(100);
-         // >> TODO
+        // >> TODO
         // Object类里的getClass方法，可以得到
         Class clazz = ShellColorChangePhone.class;
         System.out.println(clazz.getName());

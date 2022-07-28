@@ -45,8 +45,8 @@ public class MerchandiseV2 {
     // >> TODO public的方法类似一种约定，既然外面的代码可以使用，就意味着不能乱改。比如签名不能改之类的
     public void describe() {
         System.out.println("商品名字叫做" + name + "，id是" + id + "。 商品售价是" + soldPrice
-            + "。商品进价是" + purchasePrice + "。商品库存量是" + count +
-            "。销售一个的毛利润是" + (soldPrice - purchasePrice));
+                + "。商品进价是" + purchasePrice + "。商品库存量是" + count +
+                "。销售一个的毛利润是" + (soldPrice - purchasePrice));
         freeStyle();
     }
 

@@ -47,9 +47,9 @@ public class Phone extends MerchandiseV2 {
         @Override
         public String toString() {
             return "CPU{" +
-                "speed=" + speed +
-                ", producer='" + producer + '\'' +
-                '}';
+                    "speed=" + speed +
+                    ", producer='" + producer + '\'' +
+                    '}';
         }
 
         // >> TODO 静态内部类，里面可以有任意合法的类的组成部分，包括静态内部类
@@ -59,7 +59,7 @@ public class Phone extends MerchandiseV2 {
 
     }
 
-    public void accessStaticClass(){
+    public void accessStaticClass() {
         // >> TODO 同样，外部类也可以访问静态内部类（CPU）的private属性
         // 仅作演示访问性，不具有实际意义
         this.cpu.producer = "";
@@ -67,8 +67,8 @@ public class Phone extends MerchandiseV2 {
 
 
     public Phone(
-        String name, String id, int count, double soldPrice, double purchasePrice,
-        double screenSize, double cpuHZ, int memoryG, int storageG, String brand, String os
+            String name, String id, int count, double soldPrice, double purchasePrice,
+            double screenSize, double cpuHZ, int memoryG, int storageG, String brand, String os
     ) {
 
         this.screenSize = screenSize;
@@ -91,10 +91,10 @@ public class Phone extends MerchandiseV2 {
         System.out.println("此手机商品属性如下");
         describe();
         System.out.println("手机厂商为" + brand + "；系统为" + os + "；硬件配置如下：\n" +
-            "屏幕：" + screenSize + "寸\n" +
-            "cpu信息：" + cpu + " \n" +
-            "内存" + memoryG + "Gb\n" +
-            "存储空间" + storageG + "Gb\n");
+                "屏幕：" + screenSize + "寸\n" +
+                "cpu信息：" + cpu + " \n" +
+                "内存" + memoryG + "Gb\n" +
+                "存储空间" + storageG + "Gb\n");
 
     }
 
@@ -110,7 +110,7 @@ class Memory {
         this.producer = producer;
     }
 
-    public void test(){
+    public void test() {
         // >> TODO 在类的外面的代码，不能访问类的private成员
         // 仅作演示访问性，不具有实际意义
 //        Phone ph = null;

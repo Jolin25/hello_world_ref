@@ -39,6 +39,7 @@ public class LearnDate {
     private static void operateTime() {
         // TODO 默认是当前时间
         Calendar calendar = Calendar.getInstance();
+        Calendar calendar2 = Calendar.getInstance();
 
         // TODO 使用 Calendar 可以对时间进行加减
         calendar.add(Calendar.DAY_OF_YEAR, 100);
@@ -47,5 +48,9 @@ public class LearnDate {
 
         // TODO 可以方便的得到 Date 对象
         Date date = calendar.getTime();
+        Date date2 = calendar2.getTime();
+
+        System.out.println("now:" + date);
+        System.out.println("now2:" + date2);
     }
 }

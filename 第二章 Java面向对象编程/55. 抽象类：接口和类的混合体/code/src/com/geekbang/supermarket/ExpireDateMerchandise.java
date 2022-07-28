@@ -9,6 +9,7 @@ public interface ExpireDateMerchandise {
 
     // >> TODO 接口里的方法都是public abstract修饰的，方法有名字，参数和返回值，没有方法体，以分号;结束，
     // TODO 接口注释最好写一下
+
     /**
      * 截止到当前，商品的保质期天数是否超过传递的天数
      *
@@ -37,6 +38,7 @@ public interface ExpireDateMerchandise {
 
     /**
      * 根据剩余的有效期百分比，得出商品现在实际的价值
+     *
      * @param leftDatePercentage 剩余有效期百分比
      * @return 剩余的实际价值
      */

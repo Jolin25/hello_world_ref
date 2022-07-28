@@ -65,7 +65,7 @@ public class Particle {
 
     public List<BattleChoice> getChoiceForBattle() {
         return Game.getChoiceList().stream().filter(BattleChoice::canEnable)
-            .collect(Collectors.toList());
+                .collect(Collectors.toList());
     }
 
     public ParticleGroup getParticleGroup() {

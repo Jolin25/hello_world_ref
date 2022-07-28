@@ -37,7 +37,7 @@ public class ShellColorChangePhone extends Phone {
         return super.buy(count);
     }
 
-    public static void staticNoOverride(){
+    public static void staticNoOverride() {
         System.out.println("staticNoOverride in ShellColorChangePhone");
     }
 

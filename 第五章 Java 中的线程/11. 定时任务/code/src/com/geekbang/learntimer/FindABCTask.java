@@ -1,12 +1,14 @@
 package com.geekbang.learntimer;
 
+import java.util.Date;
 import java.util.TimerTask;
 
 // TODO 必须继承 TimerTask 才能被 Timer schedule
 public class FindABCTask extends TimerTask {
     @Override
-    public void run() {
+    public void run() throws RuntimeException {
         try {
+            System.out.println("nowtime:" + new Date().toString());
             String content = getWebContent();
             if (content.contains("ABC")) {
                 System.out.println("Find ABC in " + content);

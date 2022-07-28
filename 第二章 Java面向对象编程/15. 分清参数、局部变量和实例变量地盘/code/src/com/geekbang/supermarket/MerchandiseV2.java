@@ -11,7 +11,7 @@ public class MerchandiseV2 {
     // describe方法变了一下
     public void describe() {
         System.out.println("商品名字叫做" + name + "，id是" + id + "。 商品售价是" + soldPrice
-            + "。商品进价是" + purchasePrice + "。赠品是" + gift.name + "。价值" + gift.purchasePrice);
+                + "。商品进价是" + purchasePrice + "。赠品是" + gift.name + "。价值" + gift.purchasePrice);
     }
 
     public double calculateProfit() {

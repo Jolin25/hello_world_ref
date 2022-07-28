@@ -34,7 +34,7 @@ public class ChatRoomClient {
                 try {
                     ChatMessage chatMessage = exchange.receive();
                     if (chatMessage.getFrom().equalsIgnoreCase(ADMIN_NAME)
-                        && chatMessage.getMessage().trim().equalsIgnoreCase(BYE)) {
+                            && chatMessage.getMessage().trim().equalsIgnoreCase(BYE)) {
                         exchange.close();
                         System.out.println("已经离开聊天室，程序结束");
                         System.exit(0);

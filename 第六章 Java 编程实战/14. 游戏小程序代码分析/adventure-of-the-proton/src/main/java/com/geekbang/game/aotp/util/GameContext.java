@@ -34,7 +34,7 @@ public class GameContext {
 
     private InventoryGen inventoryGen = new RandInventoryGen();
 
-    public void initChoiceList(){
+    public void initChoiceList() {
         choiceList.add(new CollisionChoice());
         choiceList.add(new CaiquanChoice());
     }

@@ -19,8 +19,8 @@ public class Phone extends MerchandiseV2 {
     }
 
     public Phone(
-        String name, String id, int count, double soldPrice, double purchasePrice,
-        double screenSize, double cpuHZ, int memoryG, int storageG, String brand, String os
+            String name, String id, int count, double soldPrice, double purchasePrice,
+            double screenSize, double cpuHZ, int memoryG, int storageG, String brand, String os
     ) {
 
         double localCPUHZ = cpuHZ;
@@ -45,7 +45,7 @@ public class Phone extends MerchandiseV2 {
                 // >> TODO 局部内部类中有一个外部类的引用
                 // >> TODO 局部内部类访问外部类的对象的成员属性的完整写法如下，类名.this.属性/方法
                 // >> TODO 以上都和成员内部类一样。除此之外，局部内部类还可以访问参数和局部变量，但是它俩必须是实际final的
-              // 仅做访问数据的演示，没有实际意义
+                // 仅做访问数据的演示，没有实际意义
                 return Math.max(Phone.this.speed, Math.max(cpuHZ, localCPUHZ));
             }
 
@@ -60,9 +60,9 @@ public class Phone extends MerchandiseV2 {
             @Override
             public String toString() {
                 return "CPU{" +
-                    "speed=" + getNumSpec() +
-                    ", producer='" + producer + '\'' +
-                    '}';
+                        "speed=" + getNumSpec() +
+                        ", producer='" + producer + '\'' +
+                        '}';
             }
 
             // >> TODO 局部内部类，就好像局部变量一样，方法内部的东西出了代码就不可被访问，
@@ -95,9 +95,9 @@ public class Phone extends MerchandiseV2 {
 
             public String toString() {
                 return "Memory{" +
-                    "storage=" + getNumSpec() +
-                    ", producer='" + producer + '\'' +
-                    '}';
+                        "storage=" + getNumSpec() +
+                        ", producer='" + producer + '\'' +
+                        '}';
             }
 
         }
@@ -122,10 +122,10 @@ public class Phone extends MerchandiseV2 {
         System.out.println("此手机商品属性如下");
         describe();
         System.out.println("手机厂商为" + brand + "；系统为" + os + "；硬件配置如下：\n" +
-            "屏幕：" + screenSize + "寸\n" +
-            "cpu信息：" + cpu + " \n" +
-            "内存" + memoryG.getNumSpec() + "Gb\n" +
-            "存储空间" + storageG + "Gb\n");
+                "屏幕：" + screenSize + "寸\n" +
+                "cpu信息：" + cpu + " \n" +
+                "内存" + memoryG.getNumSpec() + "Gb\n" +
+                "存储空间" + storageG + "Gb\n");
     }
 
     public double getScreenSize() {

@@ -20,18 +20,19 @@ import org.springframework.web.multipart.MultipartFile;
 import javax.validation.Valid;
 import javax.validation.constraints.*;
 import java.util.List;
+
 @javax.annotation.Generated(value = "io.swagger.codegen.languages.SpringCodegen", date = "2019-07-14T08:47:46.060+08:00")
 
 @Api(value = "calc", description = "the calc API")
 public interface CalcApi {
 
-    @ApiOperation(value = "math calculation", nickname = "calcGet", notes = "", response = String.class, tags={  })
-    @ApiResponses(value = { 
-        @ApiResponse(code = 200, message = "description", response = String.class),
-        @ApiResponse(code = 200, message = "description", response = String.class) })
+    @ApiOperation(value = "math calculation", nickname = "calcGet", notes = "", response = String.class, tags = {})
+    @ApiResponses(value = {
+            @ApiResponse(code = 200, message = "description", response = String.class),
+            @ApiResponse(code = 200, message = "description", response = String.class)})
     @RequestMapping(value = "/calc",
-        produces = { "application/text", "application/json" }, 
-        method = RequestMethod.GET)
-    ResponseEntity<String> calcGet(@NotNull @ApiParam(value = "", required = true) @Valid @RequestParam(value = "a", required = true) String a,@NotNull @ApiParam(value = "", required = true) @Valid @RequestParam(value = "b", required = true) String b,@NotNull @ApiParam(value = "entity type", required = true) @Valid @RequestParam(value = "mathCalc", required = true) String mathCalc);
+            produces = {"application/text", "application/json"},
+            method = RequestMethod.GET)
+    ResponseEntity<String> calcGet(@NotNull @ApiParam(value = "", required = true) @Valid @RequestParam(value = "a", required = true) String a, @NotNull @ApiParam(value = "", required = true) @Valid @RequestParam(value = "b", required = true) String b, @NotNull @ApiParam(value = "entity type", required = true) @Valid @RequestParam(value = "mathCalc", required = true) String mathCalc);
 
 }

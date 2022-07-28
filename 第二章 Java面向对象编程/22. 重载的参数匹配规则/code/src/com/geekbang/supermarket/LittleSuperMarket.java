@@ -114,6 +114,7 @@ public class LittleSuperMarket {
 
     /**
      * 赚钱
+     *
      * @param toBeAdded
      */
     public void addIncomingSum(double toBeAdded) {
@@ -122,6 +123,7 @@ public class LittleSuperMarket {
 
     /**
      * 花钱
+     *
      * @param toBeSpent
      * @return
      */

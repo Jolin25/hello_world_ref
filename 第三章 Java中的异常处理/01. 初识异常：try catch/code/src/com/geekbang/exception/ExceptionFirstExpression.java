@@ -11,7 +11,7 @@ public class ExceptionFirstExpression {
             int[] arr = new int[1];
             arr[1] = 9;
         } catch (Exception ex) {
-        // 可以把ex看作是一个形参
+            // 可以把ex看作是一个形参
             int abc = 999;
             ex.printStackTrace();
         }

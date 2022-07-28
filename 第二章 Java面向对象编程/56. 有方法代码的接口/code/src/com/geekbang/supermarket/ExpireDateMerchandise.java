@@ -6,6 +6,7 @@ import java.util.Date;
 public interface ExpireDateMerchandise {
 
     // >> TODO 缺省的实现方法，用default修饰，可以有方法体
+
     /**
      * 截止到当前，商品的保质期天数是否超过传递的天数
      *

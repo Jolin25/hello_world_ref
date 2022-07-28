@@ -37,7 +37,7 @@ public class ShellColorChangePhone extends Phone {
         return super.buy(count);
     }
 
-    public static void staticMethod(){
+    public static void staticMethod() {
         System.out.println("staticMethod in ShellColorChangePhone");
     }
 
