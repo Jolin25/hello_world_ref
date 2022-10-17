@@ -1,0 +1,3 @@
+/* Output:
+DerivedSetter.set(Derived)
+OrdinarySetter.set(Base)

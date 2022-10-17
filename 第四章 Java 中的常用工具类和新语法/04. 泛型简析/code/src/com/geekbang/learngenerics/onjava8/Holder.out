@@ -1,0 +1,3 @@
+/* Output:
+java.lang.ClassCastException: Apple cannot be cast to Orange
+false

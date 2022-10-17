@@ -1,0 +1,2 @@
+/* Output:
+Expected: java.lang.ClassCastException: Attempt to insert class reflection.pets.Cat element into collection with element type class reflection.pets.Dog

@@ -1,5 +1,8 @@
 package com.geekbang.learngenerics.define;
 
+/**
+ * knowledge point:  泛型用于类上
+ */
 // >> TODO 定义泛型，就是把需要的类型定义在类后面的尖括号里，然后在类里面就可以把定义好的泛型像符号一样使用
 public class MyGenericClass<First, Second> {
 
@@ -29,7 +32,9 @@ public class MyGenericClass<First, Second> {
         this.second = second;
     }
 
-
+    /**
+     * knowledge point:  泛型用于方法之上，在返回值的前面写上泛型声明
+     */
     public <Another> Another getAnother(Object val) {
         return (Another) val;
     }

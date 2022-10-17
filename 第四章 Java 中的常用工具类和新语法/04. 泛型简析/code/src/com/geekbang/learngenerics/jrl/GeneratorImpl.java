@@ -24,7 +24,6 @@ public class GeneratorImpl implements Generator<String> {
     }
 
 
-
     /**
      * 泛型方法，在返回值前面去标注泛型，真TM地狱语法
      *
