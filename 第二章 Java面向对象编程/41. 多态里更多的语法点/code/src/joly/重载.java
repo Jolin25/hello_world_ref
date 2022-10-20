@@ -11,4 +11,11 @@ public interface 重载 {
     void methodA(int a , String b);
     void methodA(int aa,int bb);
 
+
+    // 这里是重写哈
+    // TODO_Joly:static method in interface should have a body?
+    static void methodStatic(int a, String b) {
+        System.out.println("I`m in interface");
+    }
+
 }

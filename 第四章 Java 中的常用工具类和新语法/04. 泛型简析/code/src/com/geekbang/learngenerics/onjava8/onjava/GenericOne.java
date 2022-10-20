@@ -32,7 +32,7 @@ public class GenericOne<T extends Father> { // 但是不可以用通配符？
 
 
     public static void main(String[] args) {
-
+        new GenericOne<>().method3(new Father());
     }
 }
 
