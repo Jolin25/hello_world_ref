@@ -34,20 +34,20 @@ public class ThreadWaitNotify {
         }
 
         // >> TODO 如果notify/notifyAll在wait之前，会怎么样？
-        System.out.println("------------- 唤醒线程开始sleep -------------");
+        System.out.println("------------- 唤醒线程 开始sleep -------------");
         // TODO 人工划重点：如果执行notify的时候，线程还没有进入wait状态，那么notify是没有效果的
         // TODO 人工划重点：先notify，后进入wait，就是所谓的 lost notification问题，可能造成线程无法进行
         // TODO 人工划重点：如果让唤醒的线程 sleep 的比worker短（sleep 时间 +1变-1，或者干脆不sleep），也就是先进行notify，那么就可能会造成这个问题
         // TODO 人工划重点：为什么说可能呢？因为synchronized还是阻碍了notify的执行，但是notify有机会在wait前执行了
         sleepSec(workingSec - 1);
-        System.out.println("------------- 唤醒线程sleep结束 -------------");
+        System.out.println("------------- 唤醒线程 sleep结束 -------------");
         synchronized (locker) {
             // >> TODO notify/notifyAll 方法必须在进入相应对象的synchronized块中才能调用
 //            System.out.println("------------- 开始唤醒所有 -------------");
 //            locker.notifyAll();
 
             for (int i = 0; i < threadCount; i++) {
-                System.out.println("------------- 开始逐个唤醒 -------------");
+                System.out.println("------------- 唤醒线程 开始逐个唤醒 -------------");
                 locker.notify();
             }
         }
@@ -56,6 +56,7 @@ public class ThreadWaitNotify {
 
     private static void sleepSec(int sec) {
         try {
+            // sleep 不释放锁，只释放 CPU
             Thread.sleep(TimeUnit.SECONDS.toMillis(sec));
         } catch (InterruptedException e) {
             e.printStackTrace();
