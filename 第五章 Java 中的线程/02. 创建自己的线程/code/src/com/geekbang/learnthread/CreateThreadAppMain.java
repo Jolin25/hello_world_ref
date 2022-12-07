@@ -6,7 +6,7 @@ public class CreateThreadAppMain {
             "......";
 
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         // TODO 代码是被线程执行的，任何代码都可以通过Thread.currentThread()获取执行当前代码的线程
         System.out.println("程序开始，执行的线程名字叫做" + Thread.currentThread().getName());
 
@@ -17,11 +17,18 @@ public class CreateThreadAppMain {
             // TODO 理解代码是在线程里被执行的，同样的代码可以被多个线程执行。
             // TODO 暂停一下 Java ，看看有多少线程，每个线程的名字等信息
             Thread thread = new Thread(new PrintStoryRunnable(TEXT, 200 * i), "我的线程-" + i);
+            System.out.println("1:" + thread.getState());// NEW
             // TODO 创建好线程之后，如果要启动线程，必须调用start方法，注意不是run方法
             thread.start();
+            System.out.println("2:" + thread.getState());// RUNNABLE
+            Thread.sleep(5000);
+            System.out.println("4:" + thread.getState());// TIMED_WAITING 这个时候子线程还没执行完的哈，大概率正在 sleep
+            Thread.sleep(5000);
+            System.out.println("5:" + thread.getState());//TERMINATED
         }
-
         System.out.println("启动线程结束，名字叫做" + Thread.currentThread().getName());
+
+
     }
 
     static class PrintStoryRunnable implements Runnable {
@@ -35,6 +42,7 @@ public class CreateThreadAppMain {
 
         @Override
         public void run() {
+            System.out.println("3:" + Thread.currentThread().getState());// RUNNABLE
             try {
                 double num = Math.random();
                 System.out.println("执行这段代码的线程名字叫做" + Thread.currentThread().getName());

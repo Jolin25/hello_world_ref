@@ -144,6 +144,7 @@
       <module fileurl="file://$PROJECT_DIR$/第六章 Java 编程实战/08. Intellij 更多功能介绍/code/src/test/test.iml" filepath="$PROJECT_DIR$/第六章 Java 编程实战/08. Intellij 更多功能介绍/code/src/test/test.iml" />
       <module fileurl="file://$PROJECT_DIR$/第六章 Java 编程实战/07. Maven 常用命令和插件/code/src/test/test1.iml" filepath="$PROJECT_DIR$/第六章 Java 编程实战/07. Maven 常用命令和插件/code/src/test/test1.iml" />
       <module fileurl="file://$PROJECT_DIR$/第一章 Java编程基础/附加题-双人对战五子棋/附加题-双人对战五子棋.iml" filepath="$PROJECT_DIR$/第一章 Java编程基础/附加题-双人对战五子棋/附加题-双人对战五子棋.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/集合使用注意事项_add/集合使用注意事项_add.iml" filepath="$PROJECT_DIR$/第四章 Java 中的常用工具类和新语法/集合使用注意事项_add/集合使用注意事项_add.iml" />
     </modules>
   </component>
 </project>
