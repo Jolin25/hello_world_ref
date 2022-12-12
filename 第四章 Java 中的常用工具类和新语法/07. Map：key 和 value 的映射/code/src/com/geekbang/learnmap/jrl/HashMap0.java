@@ -14,14 +14,16 @@ public class HashMap0 {
 
     private static void nullTest() {
         HashMap<Object, Object> objectObjectHashMap = new HashMap<>();
-        objectObjectHashMap.put(null,null);
+        objectObjectHashMap.put(null, null);
     }
+
     /**
      * TODO_Joly: 客观的说，这个数学我没看懂，为什么就成了，建议手算一下
-     * 将 cap 扩充为 2 的幂次方大小
-     * @date 2022/11/9
+     * 将 cap（capacity） 扩充为 2 的幂次方大小
+     *
      * @param
      * @return
+     * @date 2022/11/9
      */
     static void tableSizeFor() {
         // TODO_Joly:带符号和不带符号右移到底有啥区别

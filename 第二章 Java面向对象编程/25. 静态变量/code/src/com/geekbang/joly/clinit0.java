@@ -14,6 +14,7 @@ public class clinit0 {
     static int s_before_a = 0;
     static int s_before_b;
     int i_before_a;
+    static final int SF_A = 1;
 
     static {
         //可以赋值和访问在当前语句之前的静态变量
@@ -24,6 +25,8 @@ public class clinit0 {
         // s_before_b = s_after_c;
         //在静态代码块中不可以访问实例变量
         // i_before_a = 0;
+        //Error:(29, 9) java: 无法为最终变量SF_A分配值
+        // SF_A = 2;
     }
 
     static int s_after_c;
