@@ -7,9 +7,27 @@ import java.util.HashMap;
  * @date Create in 22:24 2022/11/8
  */
 public class HashMap0 {
+    static HashMap<Object, Object> map = new HashMap<>(16);
+
     public static void main(String[] args) {
         tableSizeFor();
         nullTest();
+        constructor();
+        put();
+    }
+
+    private static void put() {
+        System.out.println("-----------put-----------");
+        Object put = map.put(1, 1);
+        Object put2 = map.put(1, 1);
+        System.out.println(put);
+        System.out.println(put2);
+    }
+
+    private static void constructor() {
+        HashMap<Object, Object> mapOne = new HashMap<>(16);
+        final HashMap<Object, Object> mapTwo = new HashMap<>(mapOne);
+
     }
 
     private static void nullTest() {

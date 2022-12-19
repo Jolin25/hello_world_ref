@@ -15,4 +15,9 @@ public class String0 {
 
 
     }
+    static String  productString(String tmp){
+        String a0 = "Joly";
+        String b0 = "String0Mona";
+        return a0;
+    }
 }

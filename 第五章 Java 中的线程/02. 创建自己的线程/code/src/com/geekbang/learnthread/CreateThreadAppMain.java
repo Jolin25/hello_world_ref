@@ -1,5 +1,11 @@
 package com.geekbang.learnthread;
 
+/**
+ * 感受 使用 Thread 和 Runnable 来创建线程
+ * 代码内容：主线程创建线程来执行输出故事
+ *
+ * @author Joly
+ */
 public class CreateThreadAppMain {
 
     private static final String TEXT = "太阳在这个平静的小村庄缓缓升起，又是开始了平常的一天。我们故事的主人公睡眼惺忪的起来\n" +

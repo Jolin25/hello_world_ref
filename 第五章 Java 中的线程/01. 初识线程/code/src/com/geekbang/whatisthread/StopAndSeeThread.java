@@ -1,5 +1,11 @@
 package com.geekbang.whatisthread;
 
+/**
+ * 感受栈
+ *
+ * @author jrl
+ * @date 2022/12/19
+ */
 public class StopAndSeeThread {
     public static void main(String[] args) {
         m1();
