@@ -1,5 +1,8 @@
 package com.geekbang.threadlocal;
 
+/**
+ * @author Joly
+ */
 public class UseThreadLocalAppMain {
     // TODO ThreadLocal一般用在跨类，跨方法的传递一些值。
     // TODO 在一些框架、底层的类中可能会用到，可以避免上层引用代码为了框架当数据的二传手

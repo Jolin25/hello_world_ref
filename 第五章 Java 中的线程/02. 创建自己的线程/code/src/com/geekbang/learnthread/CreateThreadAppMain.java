@@ -27,9 +27,11 @@ public class CreateThreadAppMain {
             // TODO 创建好线程之后，如果要启动线程，必须调用start方法，注意不是run方法
             thread.start();
             System.out.println("2:" + thread.getState());// RUNNABLE
-            Thread.sleep(5000);
+            //为了等子线程开始执行
+            Thread.sleep(1000);
             System.out.println("4:" + thread.getState());// TIMED_WAITING 这个时候子线程还没执行完的哈，大概率正在 sleep
-            Thread.sleep(5000);
+            //为了等子线程执行完
+            Thread.sleep(9000);
             System.out.println("5:" + thread.getState());//TERMINATED
         }
         System.out.println("启动线程结束，名字叫做" + Thread.currentThread().getName());
