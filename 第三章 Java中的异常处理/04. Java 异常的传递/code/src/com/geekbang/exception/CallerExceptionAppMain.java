@@ -6,7 +6,7 @@ public class CallerExceptionAppMain {
     }
 
     private static void makeCall() throws ClassNotFoundException {
-        // >> TODO 检查异常强制处理，需要明确的throws或者catch
+        // >> TODO 检查异常要求强制处理，需要明确的throws或者catch
         Caller1 caller1 = new Caller1();
         System.out.println("调用开始");
         caller1.call2Exception();
