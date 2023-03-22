@@ -25,5 +25,15 @@ public class Son extends Father {
 		System.out.println("Son constructor");//6
 	}
 
+	public static String getName() {
+		return name;
+	}
 
+	public Integer getAge() {
+		return age;
+	}
+
+	public String getGender() {
+		return gender;
+	}
 }

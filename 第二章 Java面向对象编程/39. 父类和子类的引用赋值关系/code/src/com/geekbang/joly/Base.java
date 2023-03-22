@@ -10,6 +10,8 @@ package com.geekbang.joly;
  */
 public class Base {
 	public static void main(String[] args) {
-		new Son("why",29,"male");
+		Son son = new Son("why", 29, "male");
+		System.out.println(Son.getName());
+		System.out.println(Father.getName());
 	}
 }

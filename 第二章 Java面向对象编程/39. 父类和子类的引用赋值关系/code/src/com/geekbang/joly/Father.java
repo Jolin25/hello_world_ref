@@ -26,5 +26,15 @@ public class Father {
 		this.gender = gender;
 	}
 
+	public static String getName() {
+		return name;
+	}
 
+	public Integer getAge() {
+		return age;
+	}
+
+	public String getGender() {
+		return gender;
+	}
 }
